@@ -10,3 +10,37 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.stem {background-color: black;
+    height: 150px;
+    width: 50px;}
+
+.trafficLight {
+    background-color: black;
+    width: 150px;
+    height: 340px;
+}
+
+.light {
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+
+}
+
+.yellow {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+
+.green {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
